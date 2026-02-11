@@ -2,7 +2,7 @@
 
 ### AI/ML Engineer | Data Scientist
 
-- 🔭 I'm currently working on **End-to-end ML pipelines and applied AI projects**
+- 🤖 I'm currently working on **End-to-end ML pipelines and applied AI projects**
 
 - 🌱 I'm currently learning **Advanced MLOps, Model Deployment, and Scalable AI Systems**
 
