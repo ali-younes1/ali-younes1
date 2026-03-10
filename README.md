@@ -15,7 +15,7 @@
 
 🤖 I'm a Data Scientist and AI enthusiast currently pursuing a Master of Science in Artificial Intelligence at Grand Valley State University.
 
-My background combines **Data Science and Computer Science**, with a strong focus on **Machine Learning, Deep Learning and NLP**.
+My background combines **Data Science and Computer Science**, with a strong focus on **Machine Learning**, **Deep Learning** and **NLP**.
 
 🚀 I'm currently working on **End-to-end ML pipelines** and **applied AI projects**.
 
