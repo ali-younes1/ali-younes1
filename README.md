@@ -13,11 +13,11 @@
 
 ### 👋 Welcome to my GitHub
 
-I'm a Data Scientist and AI enthusiast currently pursuing a **Master of Science in Artificial Intelligence at Grand Valley State University**.
+🤖 I'm a Data Scientist and AI enthusiast currently pursuing a Master of Science in Artificial Intelligence at Grand Valley State University.
 
 My background combines **Data Science and Computer Science**, with a strong focus on **Machine Learning, Deep Learning and NLP**.
 
-🚀 I'm currently working on **End-to-end ML pipelines and applied AI projects**
+🚀 I'm currently working on **End-to-end ML pipelines** and **applied AI projects**.
 
 </div>
 
@@ -32,7 +32,7 @@ My background combines **Data Science and Computer Science**, with a strong focu
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 ### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -68,6 +68,7 @@ My background combines **Data Science and Computer Science**, with a strong focu
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
